@@ -1,0 +1,36 @@
+# Sumi Day: ink on rice paper, ink-wash colours, one vermilion seal.
+mode = "light"
+
+accent = "#b0473a"
+selection = "#e6d3c8"
+muted = "#8e8a84"
+
+# Softer seal on the window edge: vermilion fading to dried ink-red.
+hyprland_active_border = "rgba(b0473acc) rgba(7f3326aa) 45deg"
+hyprland_inactive_border = "rgba(8a868040)"
+
+background = "#f1ebe0"
+dark_background = "#e7e0d3"
+darker_background = "#ddd5c6"
+lighter_background = "#f7f3eb"
+
+foreground = "#1e1f26"
+dark_foreground = "#6b6862"
+light_foreground = "#33343b"
+bright_foreground = "#1e1f26"
+
+red = "#b0473a"
+yellow = "#796836"
+orange = "#8e5d42"
+green = "#5a674f"
+cyan = "#4b6766"
+blue = "#4a596e"
+magenta = "#715164"
+brown = "#6b4f3a"
+
+bright_red = "#b94031"
+bright_yellow = "#7a6730"
+bright_green = "#5f6e51"
+bright_cyan = "#4d6f6e"
+bright_blue = "#566a87"
+bright_magenta = "#885c76"
