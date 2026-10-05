@@ -8,18 +8,35 @@ A rice paper and ink theme for Omarchy 4, with vermilion accents and four 4K ink
 omarchy theme install https://github.com/ejuro/omarchy-sumi-day-theme.git
 ```
 
+## Updating
+
+To get new wallpapers and fixes, update your installed themes, then apply Sumi Day again so Omarchy picks up the new files:
+
+```sh
+omarchy theme update
+omarchy theme set sumi-day
+```
+
 ## Wallpapers
 
-Plum branch (above, default), ensō, ridges and koi. Cycle through them from the Omarchy menu under Style → Background.
+Plum branch (default), ensō, ridges and koi. Cycle through them from the Omarchy menu under Style → Background.
 
 <table>
   <tr>
-    <td width="50%"><img src="screenshots/enso.png" alt="Sumi Day desktop with the ensō wallpaper"></td>
-    <td width="50%"><img src="screenshots/ridges.png" alt="Sumi Day desktop with the ridges wallpaper"></td>
+    <td width="50%"><img src="previews/plum-branch.jpg" alt="Plum branch wallpaper, Sumi Day"></td>
+    <td width="50%"><img src="previews/enso.jpg" alt="Ensō wallpaper, Sumi Day"></td>
   </tr>
   <tr>
+    <td align="center">Plum branch</td>
     <td align="center">Ensō</td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="previews/ridges.jpg" alt="Ridges wallpaper, Sumi Day"></td>
+    <td width="50%"><img src="previews/koi.jpg" alt="Koi wallpaper, Sumi Day"></td>
+  </tr>
+  <tr>
     <td align="center">Ridges</td>
+    <td align="center">Koi</td>
   </tr>
 </table>
 
