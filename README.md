@@ -5,7 +5,7 @@ A rice paper and ink theme for Omarchy 4, with vermilion accents and four 4K ink
 ![Sumi Day desktop with the plum branch wallpaper](preview.png)
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-sumi-day-theme.git
+omarchy theme install https://github.com/erikrjohansson/omarchy-sumi-day-theme.git
 ```
 
 ## Updating
